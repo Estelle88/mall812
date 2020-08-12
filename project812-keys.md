@@ -26,6 +26,6 @@
 1. git init --> .git
 2. git status
 3. git add .
-4. git commit -m 'zhushi'
+4. git commit -m "init"
 5. 在代码托管平台(github)新建远程仓库
 6. git push
